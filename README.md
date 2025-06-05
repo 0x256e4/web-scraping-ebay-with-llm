@@ -31,6 +31,9 @@ Proyek ini melakukan scraping produk eBay dan memproses datanya menggunakan Deep
 
 ### 1. Setup Awal
 ```bash
+# Install bun via npm (Skip jika sudah terinstall)
+npm install -g bun
+
 # Clone repositori
 git clone https://github.com/0x256e4/web-scrape-ebay.git
 cd web-scrape-ebay
