@@ -36,7 +36,7 @@ git clone https://github.com/0x256e4/web-scrape-ebay.git
 cd web-scrape-ebay
 
 # Instal Depedensi
-bun install puppeteer-extra puppeteer-extra-plugin-stealth axios cheerio openai dotenv
+bun install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth axios cheerio openai dotenv
 ```
 
 ### 2. Setup API Key LLM
